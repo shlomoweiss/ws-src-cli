@@ -1,0 +1,14 @@
+{
+  "name": "ws-srv-cli",
+  "version": "1.0.0",
+  "description": "web socket sever and client example",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.4.0"
+  }
+}
